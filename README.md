@@ -1,7 +1,4 @@
-totalScaled = raw + previousRemainder
-newRewards = totalScaled / 1e18
-remainder = totalScaled % 1e18 (carried forward)
- # Institutional Staking
+# Institutional Staking
 
 An on-chain custody + staking system demonstrating dual reward models, precise emission accounting, admin controls, and a full Etherscan showcase of every externally callable action.
 
