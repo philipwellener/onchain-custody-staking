@@ -5,7 +5,7 @@ remainder = totalScaled % 1e18 (carried forward)
 
 An on-chain custody + staking system demonstrating dual reward models, precise emission accounting, admin controls, and a full Etherscan showcase of every externally callable action.
 
-![Etherscan Showcase](assets/etherscan1.png)
+![Etherscan Showcase](assets/etherscan.png)
 https://sepolia.etherscan.io/address/0x08a12480ac5a8a2ae0aec1e9f7dbaa85dbd8ab01
 
 
